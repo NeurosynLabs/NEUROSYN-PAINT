@@ -1,6 +1,8 @@
 # Neurosyn Image Generation Bot
 
-* Sample images in main reciprocity.
+<img src="https://raw.githubusercontent.com/NeurosynLabs/NEUROSYN-PAINT/refs/heads/main/joblfCZHN3Zy7Xgb9uX_n.png" alt="Neurosyn Paint" width="309" height="300">
+
+* Sample images back in main reciprocity.
 
 A highly adaptive, precision-driven image generation bot designed for deployment on the Poe platform. It interprets user prompts with meticulous detail, renders style-specific outputs, and integrates subtle creativity—while maintaining fidelity to user intent.
 
